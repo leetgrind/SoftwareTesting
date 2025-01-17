@@ -6,7 +6,7 @@
         {
        
             int a = 10;
-            int b = 2;
+            int b = 0;
 
             float answer = divide(a, b);
 
