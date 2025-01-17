@@ -6,3 +6,7 @@ The assignment consists of two questions. Each program has bugs, your task is to
 - 5 points: Correctly identified and fixed all bugs.
 - 3 points: Identified and fixed most bugs, with minor errors remaining.
 - 1 point: Identified some bugs, but with significant errors or incorrect fixes.
+
+## Submission Instructions:
+- The code should be submitted on a *private* github repo.
+- Access to my account should be provided (*leetgrind*)
